@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bcf476b-d7a0-49fd-ac71-2ced8f444d7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/projectsGit" />
+  </component>
+  <component name="ProjectId" id="1VKwb5EmxPdbQYvHRtfrYob4OZj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LearnMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnMain" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LearnMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bcf476b-d7a0-49fd-ac71-2ced8f444d7f" name="Default Changelist" comment="" />
+      <created>1577015163603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577015163603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="23" width="752" height="777" key="CommitChangelistDialog2" timestamp="1577015789859">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="264" y="23" width="752" height="777" key="CommitChangelistDialog2/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577015789859" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1577015863309">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577015863309" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1577015863308">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577015863308" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1577015863308">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577015863308" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1577015863309">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577015863309" />
+    <state x="252" y="112" key="NewModule_or_Project.wizard" timestamp="1577016065427">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="252" y="112" key="NewModule_or_Project.wizard/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577016065427" />
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1577015191813">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.-257.1920.1057@0.23.1280.777" timestamp="1577015191813" />
+  </component>
+</project>
